@@ -2,15 +2,15 @@
 
 OneB plugins: a connection to the OneB MCP servers (sign in with your OneB account) plus ready-made workflows (skills) for common tasks.
 
-- `oneb-invoice` — Invoices, acts, delivery notes, contracts and statements, sales analytics.
-- `oneb-finance` — Payments, operations, categories, Cash flow and P&L reports.
-- `oneb-contract-template` — Create and edit contract and statement templates.
+- `oneb-ai-invoice` — Invoices, acts, delivery notes, contracts and statements, sales analytics.
+- `oneb-ai-finance` — Payments, operations, categories, Cash flow and P&L reports.
+- `oneb-ai-contract-template` — Create and edit contract and statement templates.
 
 ## Install
 
 - **ChatGPT** — Plugins → “Add marketplace” → source `oneb-ai/oneb-ai-plugins`, ref `main`.
 - **Codex** — `codex plugin marketplace add oneb-ai/oneb-ai-plugins`
-- **Claude Code** — `/plugin marketplace add oneb-ai/oneb-ai-plugins`, then `/plugin install oneb-invoice@onebai`.
+- **Claude Code** — `/plugin marketplace add oneb-ai/oneb-ai-plugins`, then `/plugin install oneb-ai-invoice@onebai`.
 
 After installing, sign in with your OneB account. Connecting without plugins and server addresses: https://mcp.oneb.ai/
 

@@ -1,14 +1,14 @@
 {
     "name": "onebai",
     "interface": {
-        "displayName": "OneB (US)"
+        "displayName": "OneB (ai)"
     },
     "plugins": [
         {
-            "name": "oneb-invoice",
+            "name": "oneb-ai-invoice",
             "source": {
                 "source": "local",
-                "path": "./plugins/oneb-invoice"
+                "path": "./plugins/oneb-ai-invoice"
             },
             "policy": {
                 "installation": "AVAILABLE",
@@ -17,10 +17,10 @@
             "category": "Productivity"
         },
         {
-            "name": "oneb-finance",
+            "name": "oneb-ai-finance",
             "source": {
                 "source": "local",
-                "path": "./plugins/oneb-finance"
+                "path": "./plugins/oneb-ai-finance"
             },
             "policy": {
                 "installation": "AVAILABLE",
@@ -29,10 +29,10 @@
             "category": "Productivity"
         },
         {
-            "name": "oneb-contract-template",
+            "name": "oneb-ai-contract-template",
             "source": {
                 "source": "local",
-                "path": "./plugins/oneb-contract-template"
+                "path": "./plugins/oneb-ai-contract-template"
             },
             "policy": {
                 "installation": "AVAILABLE",

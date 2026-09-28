@@ -1,8 +1,0 @@
-{
-    "mcpServers": {
-        "oneb-invoice": {
-            "type": "http",
-            "url": "https://mcp.oneb.ai/invoice"
-        }
-    }
-}

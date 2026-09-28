@@ -1,0 +1,16 @@
+{
+    "name": "oneb-ai-finance",
+    "version": "1.0.0",
+    "description": "Payments, operations, categories, Cash flow and P&L reports.",
+    "author": {
+        "name": "OneB"
+    },
+    "homepage": "https://mcp.oneb.ai/",
+    "repository": "https://github.com/oneb-ai/oneb-ai-plugins",
+    "license": "Apache-2.0",
+    "keywords": [
+        "oneb",
+        "mcp",
+        "finance"
+    ]
+}

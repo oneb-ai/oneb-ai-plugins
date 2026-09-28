@@ -6,8 +6,8 @@
     },
     "plugins": [
         {
-            "name": "oneb-invoice",
-            "source": "./plugins/oneb-invoice",
+            "name": "oneb-ai-invoice",
+            "source": "./plugins/oneb-ai-invoice",
             "description": "Invoices, acts, delivery notes, contracts and statements, sales analytics.",
             "category": "productivity",
             "tags": [
@@ -16,8 +16,8 @@
             ]
         },
         {
-            "name": "oneb-finance",
-            "source": "./plugins/oneb-finance",
+            "name": "oneb-ai-finance",
+            "source": "./plugins/oneb-ai-finance",
             "description": "Payments, operations, categories, Cash flow and P&L reports.",
             "category": "productivity",
             "tags": [
@@ -26,8 +26,8 @@
             ]
         },
         {
-            "name": "oneb-contract-template",
-            "source": "./plugins/oneb-contract-template",
+            "name": "oneb-ai-contract-template",
+            "source": "./plugins/oneb-ai-contract-template",
             "description": "Create and edit contract and statement templates.",
             "category": "productivity",
             "tags": [

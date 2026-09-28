@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "oneb-ai-finance": {
+            "type": "http",
+            "url": "https://mcp.oneb.ai/finance"
+        }
+    }
+}
