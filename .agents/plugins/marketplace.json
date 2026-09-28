@@ -1,0 +1,44 @@
+{
+    "name": "onebai",
+    "interface": {
+        "displayName": "OneB (US)"
+    },
+    "plugins": [
+        {
+            "name": "oneb-invoice",
+            "source": {
+                "source": "local",
+                "path": "./plugins/oneb-invoice"
+            },
+            "policy": {
+                "installation": "AVAILABLE",
+                "authentication": "ON_INSTALL"
+            },
+            "category": "Productivity"
+        },
+        {
+            "name": "oneb-finance",
+            "source": {
+                "source": "local",
+                "path": "./plugins/oneb-finance"
+            },
+            "policy": {
+                "installation": "AVAILABLE",
+                "authentication": "ON_INSTALL"
+            },
+            "category": "Productivity"
+        },
+        {
+            "name": "oneb-contract-template",
+            "source": {
+                "source": "local",
+                "path": "./plugins/oneb-contract-template"
+            },
+            "policy": {
+                "installation": "AVAILABLE",
+                "authentication": "ON_INSTALL"
+            },
+            "category": "Productivity"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "onebai",
+    "description": "Connect OneB to Claude or ChatGPT",
+    "owner": {
+        "name": "OneB"
+    },
+    "plugins": [
+        {
+            "name": "oneb-invoice",
+            "source": "./plugins/oneb-invoice",
+            "description": "Invoices, acts, delivery notes, contracts and statements, sales analytics.",
+            "category": "productivity",
+            "tags": [
+                "oneb",
+                "mcp"
+            ]
+        },
+        {
+            "name": "oneb-finance",
+            "source": "./plugins/oneb-finance",
+            "description": "Payments, operations, categories, Cash flow and P&L reports.",
+            "category": "productivity",
+            "tags": [
+                "oneb",
+                "mcp"
+            ]
+        },
+        {
+            "name": "oneb-contract-template",
+            "source": "./plugins/oneb-contract-template",
+            "description": "Create and edit contract and statement templates.",
+            "category": "productivity",
+            "tags": [
+                "oneb",
+                "mcp"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+    "name": "oneb-finance",
+    "version": "1.0.0",
+    "description": "Payments, operations, categories, Cash flow and P&L reports.",
+    "author": {
+        "name": "OneB",
+        "url": "https://oneb.ai"
+    },
+    "homepage": "https://mcp.oneb.ai/",
+    "repository": "https://github.com/oneb-ai/oneb-ai-plugins",
+    "license": "Apache-2.0",
+    "extensions": {
+        "com.openai": {
+            "interface": {
+                "displayName": "OneB Finance",
+                "category": "Productivity"
+            }
+        }
+    }
+}

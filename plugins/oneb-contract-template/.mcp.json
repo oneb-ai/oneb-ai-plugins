@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "oneb-contract-template": {
+            "type": "http",
+            "url": "https://mcp.oneb.ai/contract-template"
+        }
+    }
+}
