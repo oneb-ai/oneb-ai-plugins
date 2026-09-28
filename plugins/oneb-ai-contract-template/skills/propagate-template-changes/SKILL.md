@@ -1,6 +1,6 @@
 ---
 name: propagate-template-changes
-description: "After a template changed: find the documents made from it, diff each one, confirm with the user and sync them (also the pre-check before deleting a template). Uses the OneB — contract templates (ai) MCP tools."
+description: "After a template changed: find the documents made from it, diff each one, confirm with the user and sync them (also the pre-check before deleting a template). Uses the OneB — contract templates MCP tools."
 ---
 
 # Workflow: push template changes to existing documents

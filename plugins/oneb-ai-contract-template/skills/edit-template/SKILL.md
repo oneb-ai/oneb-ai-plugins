@@ -1,6 +1,6 @@
 ---
 name: edit-template
-description: "Fix or change an existing template surgically with the atomic tools (outline → get_block → one precise edit), without re-authoring the body. Uses the OneB — contract templates (ai) MCP tools."
+description: "Fix or change an existing template surgically with the atomic tools (outline → get_block → one precise edit), without re-authoring the body. Uses the OneB — contract templates MCP tools."
 ---
 
 # Workflow: edit an existing template surgically

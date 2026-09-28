@@ -1,6 +1,6 @@
 ---
 name: author-template
-description: "Create a new contract / appendix / statement template from a recipe, a library example or scratch: map placeholders to system fields, validate, preview, save. Uses the OneB — contract templates (ai) MCP tools."
+description: "Create a new contract / appendix / statement template from a recipe, a library example or scratch: map placeholders to system fields, validate, preview, save. Uses the OneB — contract templates MCP tools."
 ---
 
 # Workflow: author a new template (contract / appendix / statement)

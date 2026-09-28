@@ -1,6 +1,6 @@
 ---
 name: restructure-table-column
-description: "Destructive table maintenance: remove an input_table column or rename/remove select options and remap the values already stored in documents. Uses the OneB — contract templates (ai) MCP tools."
+description: "Destructive table maintenance: remove an input_table column or rename/remove select options and remap the values already stored in documents. Uses the OneB — contract templates MCP tools."
 ---
 
 # Workflow: remove a table column or remap select values

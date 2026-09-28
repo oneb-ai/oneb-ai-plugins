@@ -13,7 +13,7 @@
     "extensions": {
         "com.openai": {
             "interface": {
-                "displayName": "OneB Finance (ai)",
+                "displayName": "OneB Finance",
                 "shortDescription": "Payments, operations, categories, Cash flow and P&L reports.",
                 "developerName": "OneB",
                 "category": "Productivity",

@@ -1,6 +1,6 @@
 ---
 name: send-contract
-description: "Create a contract (договір) or statement (заява) from a template and send it so the issuer/client fills the fields via the share link. Uses the OneB Invoice (ai) MCP tools."
+description: "Create a contract (договір) or statement (заява) from a template and send it so the issuer/client fills the fields via the share link. Uses the OneB Invoice MCP tools."
 ---
 
 # Workflow: create and send a contract (договір) or statement (заява)

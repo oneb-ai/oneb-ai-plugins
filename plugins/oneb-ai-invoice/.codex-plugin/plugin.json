@@ -13,7 +13,7 @@
     "extensions": {
         "com.openai": {
             "interface": {
-                "displayName": "OneB Invoice (ai)",
+                "displayName": "OneB Invoice",
                 "shortDescription": "Invoices, acts, delivery notes, contracts and statements, sales analytics.",
                 "developerName": "OneB",
                 "category": "Productivity",

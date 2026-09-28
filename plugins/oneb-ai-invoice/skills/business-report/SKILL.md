@@ -1,6 +1,6 @@
 ---
 name: business-report
-description: "Answer \"how is the business doing\" questions: totals by status, top clients/products, per-client breakdowns, contract analysis. Uses the OneB Invoice (ai) MCP tools."
+description: "Answer \"how is the business doing\" questions: totals by status, top clients/products, per-client breakdowns, contract analysis. Uses the OneB Invoice MCP tools."
 ---
 
 # Workflow: revenue & contracts report

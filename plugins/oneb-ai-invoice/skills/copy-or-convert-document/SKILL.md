@@ -1,6 +1,6 @@
 ---
 name: copy-or-convert-document
-description: "Duplicate a document of the same type, or turn one into another type (estimate→invoice, invoice→act/payout) keeping the parent link. Uses the OneB Invoice (ai) MCP tools."
+description: "Duplicate a document of the same type, or turn one into another type (estimate→invoice, invoice→act/payout) keeping the parent link. Uses the OneB Invoice MCP tools."
 ---
 
 # Workflow: copy or convert a document

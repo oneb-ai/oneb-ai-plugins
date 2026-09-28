@@ -13,7 +13,7 @@
     "extensions": {
         "com.openai": {
             "interface": {
-                "displayName": "OneB — contract templates (ai)",
+                "displayName": "OneB — contract templates",
                 "shortDescription": "Create and edit contract and statement templates.",
                 "developerName": "OneB",
                 "category": "Productivity",

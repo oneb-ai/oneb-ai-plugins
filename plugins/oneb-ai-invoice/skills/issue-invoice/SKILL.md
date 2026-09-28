@@ -1,6 +1,6 @@
 ---
 name: issue-invoice
-description: "Issue an invoice (or act / payout / purchase) FROM one of the user's businesses TO a client: resolve every id, create the document, offer to share it. Uses the OneB Invoice (ai) MCP tools."
+description: "Issue an invoice (or act / payout / purchase) FROM one of the user's businesses TO a client: resolve every id, create the document, offer to share it. Uses the OneB Invoice MCP tools."
 ---
 
 # Workflow: issue an invoice (or act / payout / purchase)

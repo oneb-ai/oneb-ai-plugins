@@ -1,7 +1,7 @@
 {
     "name": "onebai",
     "interface": {
-        "displayName": "OneB (ai)"
+        "displayName": "OneB"
     },
     "plugins": [
         {
