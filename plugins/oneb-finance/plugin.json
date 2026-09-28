@@ -14,7 +14,15 @@
         "com.openai": {
             "interface": {
                 "displayName": "OneB Finance",
-                "category": "Productivity"
+                "shortDescription": "Payments, operations, categories, Cash flow and P&L reports.",
+                "developerName": "OneB",
+                "category": "Productivity",
+                "brandColor": "#4089E0",
+                "logo": "./assets/logo.png",
+                "composerIcon": "./assets/logo.png",
+                "websiteURL": "https://oneb.ai",
+                "privacyPolicyURL": "https://oneb.ai/terms-of-service",
+                "termsOfServiceURL": "https://oneb.ai/offer"
             }
         }
     }

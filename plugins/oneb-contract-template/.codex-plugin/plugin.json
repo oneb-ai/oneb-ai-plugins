@@ -14,7 +14,15 @@
         "com.openai": {
             "interface": {
                 "displayName": "OneB — contract templates",
-                "category": "Productivity"
+                "shortDescription": "Create and edit contract and statement templates.",
+                "developerName": "OneB",
+                "category": "Productivity",
+                "brandColor": "#4089E0",
+                "logo": "./assets/logo.png",
+                "composerIcon": "./assets/logo.png",
+                "websiteURL": "https://oneb.ai",
+                "privacyPolicyURL": "https://oneb.ai/terms-of-service",
+                "termsOfServiceURL": "https://oneb.ai/offer"
             }
         }
     }
