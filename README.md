@@ -8,8 +8,8 @@ OneB plugins: a connection to the OneB MCP servers (sign in with your OneB accou
 
 ## Install
 
-- **ChatGPT** — Plugins → “Add marketplace” → source `oneb-ai/oneb-ai-plugins`, ref `main`.
-- **Codex** — `codex plugin marketplace add oneb-ai/oneb-ai-plugins`
+- **ChatGPT (desktop app)** — Plugins → Add marketplace → Source `oneb-ai/oneb-ai-plugins`, ref `main`. In ChatGPT the plugin works only in the desktop app; on chatgpt.com connect the server as a connector: https://mcp.oneb.ai/
+- **Codex** — `codex plugin marketplace add oneb-ai/oneb-ai-plugins --ref main`, then `codex plugin add oneb-ai-invoice@onebai`
 - **Claude Code** — `/plugin marketplace add oneb-ai/oneb-ai-plugins`, then `/plugin install oneb-ai-invoice@onebai`.
 
 After installing, sign in with your OneB account. Connecting without plugins and server addresses: https://mcp.oneb.ai/

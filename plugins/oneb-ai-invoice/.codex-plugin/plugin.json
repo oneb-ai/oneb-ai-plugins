@@ -1,7 +1,6 @@
 {
-    "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
     "name": "oneb-ai-invoice",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Invoices, acts, delivery notes, contracts and statements, sales analytics.",
     "author": {
         "name": "OneB",
@@ -10,20 +9,23 @@
     "homepage": "https://mcp.oneb.ai/",
     "repository": "https://github.com/oneb-ai/oneb-ai-plugins",
     "license": "Apache-2.0",
-    "extensions": {
-        "com.openai": {
-            "interface": {
-                "displayName": "OneB Invoice",
-                "shortDescription": "Invoices, acts, delivery notes, contracts and statements, sales analytics.",
-                "developerName": "OneB",
-                "category": "Productivity",
-                "brandColor": "#4089E0",
-                "logo": "./assets/logo.png",
-                "composerIcon": "./assets/logo.png",
-                "websiteURL": "https://oneb.ai",
-                "privacyPolicyURL": "https://oneb.ai/terms-of-service",
-                "termsOfServiceURL": "https://oneb.ai/offer"
-            }
-        }
+    "keywords": [
+        "oneb",
+        "mcp",
+        "invoice"
+    ],
+    "skills": "./skills/",
+    "mcpServers": "./.mcp.json",
+    "interface": {
+        "displayName": "OneB Invoice",
+        "shortDescription": "Invoices, acts, delivery notes, contracts and statements, sales analytics.",
+        "developerName": "OneB",
+        "category": "Productivity",
+        "brandColor": "#4089E0",
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/logo.png",
+        "websiteURL": "https://oneb.ai",
+        "privacyPolicyURL": "https://oneb.ai/terms-of-service",
+        "termsOfServiceURL": "https://oneb.ai/offer"
     }
 }
